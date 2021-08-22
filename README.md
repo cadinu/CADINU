@@ -11,3 +11,6 @@ On August 16, 2021
 100% of the LP tokens were locked up for three months.
 50% of the tokens have been considered for burning and Six-fold airdrops.
 6% of the developer wallet tokens is burnt at the end of each month and 3% is distributed in airdrops.
+&
+we will lock 100% LP in the end of second Airdrop.
+100% community will owne and driven - no rug is possible. #cadinu join us on our journey safely to creat our wold to better place.

@@ -1,16 +1,20 @@
-CADINU TOKEN was created to provide the initial capital needed to set up and develop a platform on the Binance smart grids. This token can be converted into any of the popular cryptocurrencies in the decentralized PancakeSwap Exchange, and we intend to get it into more centralized and decentralized exchanges. Yet, this is not our only goal of creating the token and will also use it in the platform as a local currency to buy services.
+CADINU TOKEN was created to provide the initial capital needed to set up and develop a platform on  Binance smart chain. This token can be converted into any of the popular cryptocurrencies in the PancakeSwap, BakerySwap, Biswap DEXs and Latoken, Dex-Trade, CoinsBit CEXs, and we intend to list it on more centralized and decentralized exchanges. Yet, this is not our only goal in creating CADINU Token and We'll also use it on the platform as a local currency to buy services.
 
 
-TOKENOMIC
-Total tokens: 100 quadrillion
-Smart contract mechanism:
-1% burn for each transaction, and
-Distribution of 3% of each transaction among the holders
-On August 16, 2021
- 50% of the tokens were offered publicly and fairly by creating a liquidity pool in PancakeSwap.
-100% of the LP tokens were locked up for three months.
-50% of the tokens have been considered for burning and Six-fold airdrops.
-6% of the developer wallet tokens is burnt at the end of each month and 3% is distributed in airdrops.
-&
-we will lock 100% LP in the end of second Airdrop.
-100% community will owne and driven - no rug is possible. #cadinu join us on our journey safely to creat our wold to better place.
+Tokenomics: 
+
+
+CADINU token has a total supply of 100,000,000,000,000,000 tokenomics.
+  50% of all supplies were offered publicly and fairly by creating a liquidity pool in the PancakeSwap.
+  50% of all supplies have been considered for the burning and airdrop:
+  6% of all supplies in the developer’s wallet burned at the first event.
+  2% of all supplies will be sent to airdrop participants and the developer has begun sending rewards.
+  36% of all supplies in the developer’s wallet burned at the second step.
+  6% of all supplies in the developer’s wallet burned in the last step.
+  Any money left in the developer’s wallet will be used for marketing and, subsequent airdrops.
+Transactions Fee :
+1% of each transaction will be burnt. 🔥
+3% of each transaction will be distributed among holders. 🎁🎁🎁
+6% of each transaction will be sent to the DEV wallet for developing and marketing activities.🚀🚀🚀🚀🚀🚀
+
+100% community-driven no rug-pull is possible. #CADINU join us on our journey safely to create a better world.

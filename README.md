@@ -1,4 +1,5 @@
 CADINU TOKEN was created to provide the initial capital needed to set up and develop a platform on  Binance smart chain. This token can be converted into any of the popular cryptocurrencies in the PancakeSwap, BakerySwap, Biswap DEXs and Latoken, Dex-Trade, CoinsBit CEXs, and we intend to list it on more centralized and decentralized exchanges. Yet, this is not our only goal in creating CADINU Token and We'll also use it on the platform as a local currency to buy services.
+100% LP tokens were auto-locked  for 3 years by using the DxSale protocol. 
 100% community-driven no rug-pull is possible. #CADINU join us on our journey safely to create a better world.
 
 

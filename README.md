@@ -3,7 +3,26 @@ CADINU TOKEN was created to provide the initial capital needed to set up and dev
 
 Tokenomics: 
 
+CADINU (NEW)
 
+Transactions Fee :
+
+CADINU token has a total supply of 1,000,000,000,000 tokenomics.
+
+
+🔥1%  is sent to the burned address automatically.🔥
+
+🎁3%  is distributed among the holders.🎁
+
+👩‍💻 3% for marketing and development 👩‍💻
+
+💰 3% gets added to the Liquidity pool automatically.💰
+
+
+
+
+
+CADINU(OLD)
 CADINU token has a total supply of 100,000,000,000,000,000 tokenomics.
   50% of all supplies were offered publicly and fairly by creating a liquidity pool in the PancakeSwap.
   50% of all supplies have been considered for the burning and airdrop:

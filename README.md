@@ -12,11 +12,11 @@ CADINU token has a total supply of 1,000,000,000,000 tokenomics.
 
 Transactions Fee :
 
-🔥1%  is sent to the burned address automatically.🔥
+🔥 0%  is sent to the burned address automatically.🔥
 
-🎁3%  is distributed among the holders.🎁
+🎁 3%  is distributed among the holders.🎁
 
-👩‍💻 3% for marketing and development 👩‍💻
+👩‍💻 0% for marketing and development 👩‍💻
 
 💰 3% gets added to the Liquidity pool automatically.💰
 

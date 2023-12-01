@@ -1,24 +1,17 @@
-CADINU TOKEN was created to provide the initial capital needed to set up and develop a platform on  Binance smart chain. This token can be converted into any of the popular cryptocurrencies in the PancakeSwap, BakerySwap, Biswap DEXs and Latoken, Dex-Trade, CoinsBit CEXs, and we intend to list it on more centralized and decentralized exchanges. Yet, this is not our only goal in creating CADINU Token and We'll also use it on the platform as a local currency to buy services.
-100% LP tokens were auto-locked  for 3 years by using the DxSale protocol. 
-100% community-driven no rug-pull is possible. #CADINU join us on our journey safely to create a better world.
+
+CADINU TOKEN was initially designed to secure the essential capital required for the establishment and expansion of our platform on the Binance Smart Chain. Our token is readily convertible into leading cryptocurrencies through PancakeSwap, CADINUSwap DEXs, Dex-Trade, CoinsBit, and Digifinex CEXs. We're actively working to secure listings on additional centralized and decentralized exchanges.
+
+However, our vision for CADINU Token extends beyond exchange listings. We are committed to utilizing it as a native currency on our platform, facilitating seamless transactions for various services. 
+
+Ensuring transparency and community trust, we've taken the precautionary measure of auto-locking 100% of LP tokens using the DxSale protocol for a duration of 3 years. This move solidifies our commitment to a rug-pull-free environment, as we invite you to join the #CADINU community on our journey to build a better world safely.
 
 
 ...............................................................................................................................................
 
-CADINU (NEW)
+**CADINU (NEW)**
 
-
-CADINU token has a total supply of 1,000,000,000,000 tokenomics.
-
-Transactions Fee :
-
-🔥 0%  is sent to the burned address automatically.🔥
-
-🎁 3%  is distributed among the holders.🎁
-
-👩‍💻 0% for marketing and development 👩‍💻
-
-💰 3% gets added to the Liquidity pool automatically.💰
+CADINU token, with a total supply of 1,000,000,000,000 tokens, boasts a transaction fee of zero.
+We've taken a significant step towards decentralization by renouncing ownership ensuring community-driven governance and transparency. 
 
 
 
@@ -37,7 +30,7 @@ CADINU token has a total supply of 100,000,000,000,000,000 tokenomics.
   50% of all supplies have been considered for the burning and airdrop:
   6% of all supplies in the developer’s wallet burned at the first event.
   2% of all supplies will be sent to airdrop participants and the developer has begun sending rewards.
-  36% of all supplies in the developer’s wallet burned at the second step.
+  36% of the developer’s wallet supplies burned at the second step.
   6% of all supplies in the developer’s wallet burned in the last step.
   Any money left in the developer’s wallet will be used for marketing and, subsequent airdrops.
 Transactions Fee :
